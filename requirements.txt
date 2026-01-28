@@ -1,0 +1,10 @@
+requests
+geopandas
+python-dotenv
+pandas
+openpyxl
+ipykernel
+numpy
+matplotlib
+reportlab
+unidecode
